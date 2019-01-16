@@ -12,15 +12,16 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"banzai", sentence:""))
-        list.append(Word(word:"tycoon", sentence:""))
-        list.append(Word(word:"sumo", sentence:""))
-        list.append(Word(word:"koan", sentence:""))
-        list.append(Word(word:"satori", sentence:""))
-        list.append(Word(word:"tatami", sentence:""))
-        list.append(Word(word:"kami", sentence:""))
-        list.append(Word(word:"sukiyaki", sentence:""))
-        list.append(Word(word:"kuruma", sentence:""))
-        list.append(Word(word:"meiji", sentence:""))
+        list.append(Word(word:"romaji", sentence:""))
+        list.append(Word(word:"odori", sentence:""))
+        list.append(Word(word:"miso", sentence:""))
+        list.append(Word(word:"kabuki", sentence:""))
+        list.append(Word(word:"geta", sentence:""))
+        list.append(Word(word:"sayonara", sentence:""))
+        list.append(Word(word:"karaoke", sentence:""))
+        list.append(Word(word:"nisei", sentence:""))
+        list.append(Word(word:"sansei", sentence:""))
+        list.append(Word(word:"issei", sentence:""))
+        list.append(Word(word:"kibei", sentence:""))
     }
 }
