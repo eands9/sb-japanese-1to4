@@ -12,10 +12,14 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"inane", sentence:""))
-        list.append(Word(word:"relevant", sentence:""))
-        list.append(Word(word:"impetuous", sentence:""))
-        list.append(Word(word:"ambivalent", sentence:""))
-        list.append(Word(word:"dejected", sentence:""))
+        list.append(Word(word:"ninja", sentence:""))
+        list.append(Word(word:"sushi", sentence:""))
+        list.append(Word(word:"tofu", sentence:""))
+        list.append(Word(word:"shogun", sentence:""))
+        list.append(Word(word:"honcho", sentence:""))
+        list.append(Word(word:"karate", sentence:""))
+        list.append(Word(word:"samurai", sentence:""))
+        list.append(Word(word:"teriyaki", sentence:""))
+        list.append(Word(word:"sashimi", sentence:""))
     }
 }
