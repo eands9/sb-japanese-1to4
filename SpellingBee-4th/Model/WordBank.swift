@@ -12,14 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"ninja", sentence:""))
-        list.append(Word(word:"sushi", sentence:""))
-        list.append(Word(word:"tofu", sentence:""))
-        list.append(Word(word:"shogun", sentence:""))
-        list.append(Word(word:"honcho", sentence:""))
-        list.append(Word(word:"karate", sentence:""))
-        list.append(Word(word:"samurai", sentence:""))
-        list.append(Word(word:"teriyaki", sentence:""))
-        list.append(Word(word:"sashimi", sentence:""))
+        list.append(Word(word:"tsunami", sentence:""))
+        list.append(Word(word:"haiku", sentence:""))
+        list.append(Word(word:"futon", sentence:""))
+        list.append(Word(word:"mikado", sentence:""))
+        list.append(Word(word:"hibachi", sentence:""))
+        list.append(Word(word:"origami", sentence:""))
+        list.append(Word(word:"geisha", sentence:""))
+        list.append(Word(word:"wasabi", sentence:""))
+        list.append(Word(word:"ramen", sentence:""))
+        list.append(Word(word:"kudzu", sentence:""))
     }
 }
